@@ -1,0 +1,14 @@
+[
+  {
+      "titulo": "Finalizar relatório",
+      "descricao": "Preparar o relatório anual de 2024",
+      "concluida": false,
+      "pessoaResponsavel": "Leonardo Gaertner"
+  },
+  {
+      "titulo": "Atualizar banco de dados",
+      "descricao": "Atualizar registros de clientes",
+      "concluida": true,
+      "pessoaResponsavel": "Maria Silva"
+  }
+]
